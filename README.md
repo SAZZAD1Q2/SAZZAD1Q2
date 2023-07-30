@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software development from Microverse**
 
-- 👨‍💻 All of my projects are available at [https://sazzad1q2.github.io/New-Portfolio/](https://sazzad1q2.github.io/New-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/SAZZAD1Q2?tab=repositories](https://github.com/SAZZAD1Q2?tab=repositories)
 
 - 📫 How to reach me **sazzad1q2@gmail.com**
 
